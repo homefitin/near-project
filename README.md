@@ -2,6 +2,9 @@
 
 Buy and sell movie posters and store information on near blockchain.
 
+## Demo 
+https://near-market.vercel.app/
+
 ## Description
 
 This repository includes a complete project structure for AssemblyScript contracts targeting the NEAR platform.
@@ -27,7 +30,7 @@ The example here is very basic. It's a simple contract demonstrating the followi
   public sellMoviePoster(ft: MoviePoster): void {}
 ```
 
-## Usage
+
 
 ### Getting started
 
